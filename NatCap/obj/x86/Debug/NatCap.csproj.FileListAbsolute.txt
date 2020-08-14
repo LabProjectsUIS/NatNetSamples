@@ -1,0 +1,14 @@
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\NatCap.csprojResolveAssemblyReference.cache
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\MainWindow.baml
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\Styles\MetroDark.MSControls.Core.Implicit.baml
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\App.baml
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\MainWindow.g.cs
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\App.g.cs
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\NatCap_MarkupCompile.cache
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\NatCap.g.resources
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\NatCap.Properties.Resources.resources
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\NatCap.csproj.GenerateResource.Cache
+C:\NatNetSDK\Samples\NatCap\bin\Debug\NatCap.exe
+C:\NatNetSDK\Samples\NatCap\bin\Debug\NatCap.pdb
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\NatCap.exe
+C:\NatNetSDK\Samples\NatCap\obj\x86\Debug\NatCap.pdb

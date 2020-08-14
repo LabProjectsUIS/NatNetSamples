@@ -1,0 +1,8 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+  PacketClient.cpp
+PacketClient.cpp(849): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+PacketClient.cpp(850): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+PacketClient.cpp(915): warning C4800: 'int': forcing value to bool 'true' or 'false' (performance warning)
+PacketClient.cpp(934): warning C4474: 'printf' : too many arguments passed for format string
+  PacketClient.cpp(934): note: placeholders and their parameters expect 1 variadic arguments, but 2 were provided
+  PacketClient.vcxproj -> C:\NatNetSDK\Samples\\bin\PacketClient.exe

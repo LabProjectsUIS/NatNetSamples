@@ -1,0 +1,10 @@
+﻿  SampleClient3D.cpp
+SampleClient3D.cpp(223): warning C4244: 'initializing': conversion from 'UINT_PTR' to 'UINT', possible loss of data
+  RigidBodyCollection.cpp
+  OpenGlDrawingFunctions.cpp
+  NATUtils.cpp
+  MarkerPositionCollection.cpp
+  GLPrint.cpp
+  Generating Code...
+  SampleClient3D.vcxproj -> C:\NatNetSDK\Samples\x64\Debug\SampleClient3D.exe
+  SampleClient3D.vcxproj -> C:\NatNetSDK\Samples\x64\Debug\SampleClient3D.pdb (Full PDB)

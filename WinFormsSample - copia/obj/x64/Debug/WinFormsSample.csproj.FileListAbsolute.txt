@@ -1,0 +1,12 @@
+C:\NatNetSDK\Samples\WinFormsSample\obj\x64\Debug\WinFormTestApp.exe
+C:\NatNetSDK\Samples\WinFormsSample\obj\x64\Debug\WinFormTestApp.pdb
+C:\NatNetSDK\Samples\WinFormsSample\obj\x64\Debug\WinFormsSample.csprojResolveAssemblyReference.cache
+C:\NatNetSDK\Samples\WinFormsSample\obj\x64\Debug\WinFormTestApp.Form1.resources
+C:\NatNetSDK\Samples\WinFormsSample\obj\x64\Debug\WinFormTestApp.Properties.Resources.resources
+C:\NatNetSDK\Samples\WinFormsSample\obj\x64\Debug\WinFormsSample.csproj.GenerateResource.Cache
+C:\NatNetSDK\Samples\WinFormsSample - copia\obj\x64\Debug\WinFormTestApp.exe
+C:\NatNetSDK\Samples\WinFormsSample - copia\obj\x64\Debug\WinFormTestApp.pdb
+C:\NatNetSDK\Samples\WinFormsSample - copia\obj\x64\Debug\WinFormsSample.csprojResolveAssemblyReference.cache
+C:\NatNetSDK\Samples\WinFormsSample - copia\obj\x64\Debug\WinFormTestApp.Form1.resources
+C:\NatNetSDK\Samples\WinFormsSample - copia\obj\x64\Debug\WinFormTestApp.Properties.Resources.resources
+C:\NatNetSDK\Samples\WinFormsSample - copia\obj\x64\Debug\WinFormsSample.csproj.GenerateResource.Cache

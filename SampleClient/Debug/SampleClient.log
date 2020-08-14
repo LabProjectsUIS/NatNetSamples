@@ -1,0 +1,7 @@
+﻿LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+NatNetLibStatic.lib(ClientCore.obj) : warning LNK4217: locally defined symbol _sprintf imported in function "protected: void __thiscall ClientCore::SetHostPresent(void)" (?SetHostPresent@ClientCore@@IAEXXZ)
+NatNetLibStatic.lib(UnicastClientCore.obj) : warning LNK4049: locally defined symbol _sprintf imported
+NatNetLibStatic.lib(NatNetHelper.obj) : warning LNK4049: locally defined symbol _sprintf imported
+NatNetLibStatic.lib(NatNetHelper.obj) : error LNK2019: unresolved external symbol __imp__sscanf referenced in function "public: static int __cdecl NatNetHelper::IPAddress_StringToLong(char *,unsigned long *)" (?IPAddress_StringToLong@NatNetHelper@@SAHPADPAK@Z)
+NatNetLibStatic.lib(NatNetHelper.obj) : error LNK2019: unresolved external symbol __imp__sprintf_s referenced in function "public: static bool __cdecl NatNetHelper::TimecodeStringify(unsigned int,unsigned int,char *,int)" (?TimecodeStringify@NatNetHelper@@SA_NIIPADH@Z)
+C:\NatNetSDK\Samples\\bin\SampleClient.exe : fatal error LNK1120: 2 unresolved externals

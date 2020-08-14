@@ -1,0 +1,4 @@
+﻿  SampleClient.cpp
+SampleClient.cpp(552): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  SampleClient.vcxproj -> C:\NatNetSDK\Samples\x64\Debug\SampleClient.exe
+  SampleClient.vcxproj -> C:\NatNetSDK\Samples\x64\Debug\SampleClient.pdb (Full PDB)
